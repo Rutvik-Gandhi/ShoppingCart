@@ -1,10 +1,9 @@
-# ShoppingCart - An amazing website [![HitCount](http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart) [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
-
+# ShoppingCart 
 
 We developed an end to end **Ecommerce web Application using Spring MVC** with multiple
 modules
 
-## Project is not maintained anymore [here #56](https://github.com/ikismail/ShoppingCart/issues/56#issue-606454548)
+## 
 
 ### Functionalities:
 
@@ -92,14 +91,3 @@ or take it as a task and 🧑‍💻 resolve it 💪 --> create a PullRequest �
 #### Contribution
 
 Contributors are most welcome.
-
-### ScreenShots:
-
-* Home Page:
-
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
-
-* Contact Us:
-
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
-
